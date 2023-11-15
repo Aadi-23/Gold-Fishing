@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: af0a38e6533d639429ccf7ef5adf085c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Goudy Mediaeval
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8da6d44d52330834abd0c020bc19e18b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

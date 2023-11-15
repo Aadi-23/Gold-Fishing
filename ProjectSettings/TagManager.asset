@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Score
+  - HighScore
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Behind Everything
+    uniqueID: 3294539213
+    locked: 0
+  - name: Behind Lava
+    uniqueID: 3933680841
+    locked: 0
+  - name: Lava
+    uniqueID: 202299547
+    locked: 0
+  - name: In Front of Lava
+    uniqueID: 1313029821
+    locked: 0
+  - name: In Front of Everything
+    uniqueID: 1666554087
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 1062914395
+    locked: 0

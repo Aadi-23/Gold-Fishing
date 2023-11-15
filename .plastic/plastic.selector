@@ -1,0 +1,4 @@
+repository "2023-5SD071-GoldFishing@193.11.10.9:8087"
+  path "/"
+    smartbranch "/main/Adarsh" changeset "289"                                                                         
+     
